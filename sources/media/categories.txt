@@ -1,0 +1,11 @@
+1,Emergencia,emergenze.png,Bomberos - Policía - Emer Médicas - Defensa Civil.
+2,Hospitales,saluteebenessere.png,Hospitales - Clinicas.
+8,Taxis,auto.png,Radio Taxis - Remises - Fletes - Mudanzas.
+12,Servicios,serviziutili.png,Edenor - Edesur - Gas Natural - etc
+5,Bancos,banca.png,Privados - Publicos - Sucursales.
+3,Ministerios,ministero.png, Ministerios - Escuelas - ONG.
+4,Utiles,utenze.png,Operadora
+5,Supermercados,centricommerciali.png,Shopings - Supermercados 
+7,Telefonicas,telefonia.png,Claro - Movistar - Personal - Telecom - Telefonica Argentina
+11,Computacion,informatica.png,Servicio tecnico, ventas.
+13,Turismo,viaggi.png,Aeropuerto - Aeroparque - Terminal ómnibus.

@@ -1,0 +1,25 @@
+0,Todo el Pais,todas 
+4,Ciudad de Buenos Aires,ciudad-de-buenos-aires
+1,Buenos Aires,buenos-aires
+2,Catamarca,catamarca
+5,Chaco,chaco
+6,Chubut,chubut
+3,Córdoba,cordoba
+7,Corrientes,corrientes
+8,Entre Ríos,entre-rios
+9,Formosa,formosa
+10,Jujuy,jujuy
+11,La Pampa,la-pampa
+12,La Rioja,la-rioja
+14,Mendoza,mendoza
+13,Misiones,misiones
+15,Neuquén,neuquen
+16,Río Negro,rio-negro
+17,Salta,salta
+21,San Juan,san-juan
+22,San Luis,san-luis
+18,Santa Cruz,santa-cruz
+20,Santa Fé,santa-fe
+19,Santiago del Estero,santiago-del-estero
+23,Tierra del Fuego,tierra-del-fuego
+24,Tucumán,tucuman
